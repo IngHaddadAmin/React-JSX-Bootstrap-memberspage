@@ -1,0 +1,22 @@
+/*h1{
+  color: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 200 px;
+}
+p{
+  font-size: 140%;
+  color: rgb(221, 82, 82);
+  
+}*/
+.container{
+  margin-top: 10px;
+}
+div{
+  margin-bottom: 10px;
+}
+label{
+  margin-left: 10px;
+}
+input[type='checkbox']{
+  margin-left: 10px;
+}
